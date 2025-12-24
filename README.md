@@ -1,2 +1,2 @@
 # Torres-de-Hanoi
-Juego de las Torres de Hanoi.
+The classic game of Torre de Hanoi.
